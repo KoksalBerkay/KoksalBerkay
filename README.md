@@ -1,4 +1,4 @@
-# 👋Hi I am Köksal Berkay Denktaş
+# 👋Hi, I am Köksal Berkay Denktaş
 I've been learning to code since June 2019. I am trying to be a Full-Stack Developer. I am interested in Backend development and Artificial Intelligence. I aim to develop my skills by creating projects. 
 <br>🌍  I'm based in İzmir/Turkiye<br>✉️  You can contact me at koksalberkaydenktas@gmail.com
 
