@@ -1,5 +1,6 @@
 # 👋Hi, I am Koksal Berkay Denktas
 I’ve been coding since June 2019 and am currently pursuing a Bachelor’s in Computer Engineering at Politecnico di Torino. I’m focused on becoming a Full-Stack Developer, with a strong interest in Backend Development and Artificial Intelligence. I refine my skills through collaboration with university student teams, engaging in hobby projects, and exploring innovative technologies. 
+
 <br>🌍  I'm based in Turin/Italy<br>✉️  You can contact me at koksalberkaydenktas@gmail.com
 
 
