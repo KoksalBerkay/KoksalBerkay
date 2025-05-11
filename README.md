@@ -6,7 +6,7 @@ I’ve been coding since June 2019 and am currently pursuing a Bachelor’s in C
 <br>🌍  I'm based in Turin/Italy<br>✉️  You can contact me at koksalberkaydenktas@gmail.com
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koksal-berkay-denktas-547725290/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koksal-berkay-denktas/) 
 
 
 # 💻 Tech Stack:
